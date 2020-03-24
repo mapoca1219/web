@@ -1,0 +1,19 @@
+/*selector universla */
+*{
+	border: 1px solid blue;
+	margin: 5px;
+}
+/*selector de etiquetas*/
+header{
+	background-color: green;
+	color: white;
+}
+section{
+	background-color: coral;
+	font-size: 15px;
+	color: white;
+}
+/*selector de clase*/
+.header{
+	background-color: red;
+}
